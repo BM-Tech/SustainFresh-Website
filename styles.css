@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+h1{
+    font-family: 'Arvo', serif;
+}
+
+.bkg{
+
+    background: linear-gradient(0deg, rgba(119, 8, 73, 0.473), rgba(121, 17, 77, 0.568)), url('https://wallpaperaccess.com/full/1201167.jpg');
+}
