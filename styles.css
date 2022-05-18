@@ -1,6 +1,23 @@
 html, body {
-    height: 120%;
+    height: 165%;
     scroll-behavior: smooth;
+}
+
+#veterans-bg {
+    background-image: url(veterans.jpg);
+}
+
+#nutritional-bg {
+    background-image: url(nutrition.jpg);
+}
+
+#dyslexia-bg {
+    background-image: url(dyslexia.jpg);
+    background-position: 75%;
+}
+
+#chemotherapy-bg {
+    background-image: url(chemotherapy.webp);
 }
 
 .mynavbar a {
