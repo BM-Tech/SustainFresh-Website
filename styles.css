@@ -3,9 +3,17 @@
     --color-secondary: #fafafa;
 }
 
+@media screen and (max-width: 768px) {
+    .responsivenav {
+        display: flex;
+        justify-content: center;
+    }
+}
+
 .bg-img{
     background: linear-gradient(#ffffff5a, #ffffff5a), url(https://www.workday.com/content/dam/web/zz/images/illustrations/img-diversity-hero-group.png);
     background-size: cover;
+    /* background-position: center; */
 }
 
 * {
@@ -15,6 +23,5 @@
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
-    /* translate to the left 20 pixels */
     transform: translateX(-70px);
 }
