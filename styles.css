@@ -11,7 +11,7 @@
 }
 
 .bg-img{
-    background: linear-gradient(#ffffff2c, #ffffff), url(https://www.workday.com/content/dam/web/zz/images/illustrations/img-diversity-hero-group.png);
+    background: linear-gradient(#ffffff00, #ffffff), url(https://www.workday.com/content/dam/web/zz/images/illustrations/img-diversity-hero-group.png);
     background-size: cover;
     /* background-position: center; */
 }
